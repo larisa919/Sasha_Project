@@ -16,8 +16,9 @@ wrap.sprite.set_size(1,50,50)
 time.sleep(2)
 wrap.actions.set_size(1,300,300)
 wrap.actions.move_to(1,100,300)
-wrap.sprite.set_size(0,00,00)
-wrap.actions.set_angle(1,1000000)
+(wrap.
+ sprite.set_size(0,00,00))
+wrap.actions.set_angle(1,1000000000000000000000000000000000000)
 
 
 # wrap.actions.move(0, 400,0,3000)
